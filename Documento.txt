@@ -5,3 +5,5 @@ relacion de facturas
 Alsea
 
 Texto escrito desde Linux Ubunto despues de realizar la instalacion de VM
+
+Para contribuir mediante fork
