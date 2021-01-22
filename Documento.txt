@@ -6,4 +6,6 @@ Alsea
 
 Texto escrito desde Linux Ubunto despues de realizar la instalacion de VM
 
+Master 1
+
 Para contribuir mediante fork
