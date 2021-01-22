@@ -8,4 +8,6 @@ Texto escrito desde Linux Ubunto despues de realizar la instalacion de VM
 
 Master 1
 
+Master 2
+
 Para contribuir mediante fork
